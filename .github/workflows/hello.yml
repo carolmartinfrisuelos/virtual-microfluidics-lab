@@ -9,5 +9,4 @@ jobs:
 
     steps:
       - run: echo "Hello from GitHub Actions!"
-      - run: echo "This is my first workflow."
-    
+      - run: echo "This is my first workflow." 
